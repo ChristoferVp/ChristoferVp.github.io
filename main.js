@@ -481,4 +481,5 @@ botonesCategorias.forEach(boton => {
         }
 
     })
+
 });
